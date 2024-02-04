@@ -39,9 +39,4 @@ export const data = [
     url: 'https://cocktails-react-pro.netlify.app/',
     image: './images/mixmaster.png',
   },
-  {
-    title: 'grocery',
-    url: 'https://app.netlify.com/sites/grocery-bud-pro/configuration/general',
-    image: './images/grocery.png',
-  },
 ]
