@@ -5,11 +5,6 @@ export const data = [
     image: './images/menu.png',
   },
   {
-    title: 'tours',
-    url: 'https://tours-explore-site.netlify.app/',
-    image: './images/tours.png',
-  },
-  {
     title: 'paragraph',
     url: 'https://paragraph-selector.netlify.app/',
     image: './images/paragraph.png',
@@ -28,5 +23,25 @@ export const data = [
     title: 'questions',
     url: 'https://questions-project.netlify.app/',
     image: './images/questions.png',
+  },
+  {
+    title: 'portfolio',
+    url: 'https://questions-project.netlify.app/',
+    image: './images/portfolio.png',
+  },
+  {
+    title: 'reviews',
+    url: 'https://reviews-pro.netlify.app/',
+    image: './images/reviews.png',
+  },
+  {
+    title: 'color',
+    url: 'https://app.netlify.com/sites/color-generator-projects/configuration/general',
+    image: './images/color-generator.png',
+  },
+  {
+    title: 'grocery',
+    url: 'https://app.netlify.com/sites/grocery-bud-pro/configuration/general',
+    image: './images/grocery.png',
   },
 ]
