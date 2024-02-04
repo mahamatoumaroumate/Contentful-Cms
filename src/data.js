@@ -35,9 +35,9 @@ export const data = [
     image: './images/reviews.png',
   },
   {
-    title: 'color',
-    url: 'https://app.netlify.com/sites/color-generator-projects/configuration/general',
-    image: './images/color-generator.png',
+    title: 'cocktails',
+    url: 'https://cocktails-react-pro.netlify.app/',
+    image: './images/mixmaster.png',
   },
   {
     title: 'grocery',
