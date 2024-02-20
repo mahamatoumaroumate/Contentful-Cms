@@ -39,4 +39,15 @@ export const data = [
     url: 'https://cocktails-react-pro.netlify.app/',
     image: './images/mixmaster.png',
   },
+  {
+    title: 'comfy',
+    url: 'https://comfy-store-projects.netlify.app/',
+    image: './images/comfy.png',
+  },
+  {
+    title: 'jobster',
+    url: 'https://https://jobster-apps.netlify.app/landing',
+    image: './images/jobster.png',
+  },
+  
 ]
