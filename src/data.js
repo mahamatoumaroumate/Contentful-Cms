@@ -46,7 +46,7 @@ export const data = [
   },
   {
     title: 'jobster',
-    url: 'https://https://jobster-apps.netlify.app/landing',
+    url: 'https://jobster-apps.netlify.app/landing',
     image: './images/jobster.png',
   },
   
