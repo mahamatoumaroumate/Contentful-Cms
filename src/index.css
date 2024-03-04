@@ -45,7 +45,7 @@
 }
 .projects {
   min-height: calc(100vh - 300px);
-  background: #eff7ff;
+  background: #e2e8f0;
 }
 .project-center {
   width: 80vw;
