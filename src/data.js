@@ -54,5 +54,10 @@ export const data = [
     url: 'https://tours-explore-site.netlify.app/',
     image: './images/tours.png',
   },
+  {
+    title: 'githubuser',
+    url: 'https://github-user-projects.netlify.app/',
+    image: './images/githubuser.png',
+  },
   
 ]
