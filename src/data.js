@@ -60,4 +60,10 @@ export const data = [
     image: './images/githubuser.png',
   },
   
+  {
+    title: 'comfySloth',
+    url: 'https://comfysloth-comfy.netlify.app/',
+    image: './images/comfysloth.png',
+  },
+  
 ]
