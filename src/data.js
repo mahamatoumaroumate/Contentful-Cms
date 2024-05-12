@@ -66,10 +66,6 @@ export const data = [
     image: './images/comfysloth.png',
   },
   
-  {
-    title: 'x-clone',
-    url: 'https://x-next-blue.vercel.app/',
-    image: './images/x-clone.png',
-  },
+ 
   
 ]
