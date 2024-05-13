@@ -65,6 +65,11 @@ export const data = [
     url: 'https://comfysloth-comfy.netlify.app/',
     image: './images/comfysloth.png',
   },
+  {
+    title: 'x-clone',
+    url: 'https://x-next-lemon.vercel.app/',
+    image: './images/x-clone.png',
+  },
   
  
   
