@@ -72,7 +72,7 @@ export const data = [
   },
   {
     title: 'airbnb',
-    url: 'https://airbnb-book.netlify.app/',
+    url: 'https://main--airbnb-book.netlify.app/',
     image: './images/airbnb.png',
   },
   
