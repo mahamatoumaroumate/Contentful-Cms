@@ -70,6 +70,11 @@ export const data = [
     url: 'https://x-next-lemon.vercel.app/',
     image: './images/x-clone.png',
   },
+  {
+    title: 'airbnb',
+    url: 'https://airbnb-book.netlify.app/',
+    image: './images/airbnb.png',
+  },
   
  
   
