@@ -71,9 +71,14 @@ export const data = [
     image: './images/x-clone.png',
   },
   {
-    title: 'airbnb',
-    url: 'https://main--airbnb-book.netlify.app/',
-    image: './images/airbnb.png',
+    title: 'jobify',
+    url: 'https://jobify-v8op2d27t-mahamat-oumars-projects.vercel.app/',
+    image: './images/jobify.png',
+  },
+  {
+    title: 'saas',
+    url: 'https://saas-ten-dusky.vercel.app/',
+    image: './images/saas.png',
   },
   
  
