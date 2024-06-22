@@ -81,6 +81,12 @@ export const data = [
     image: './images/saas.png',
   },
   
+  {
+    title: 'airbnb',
+    url: 'https://airbnb-next-js-two.vercel.app/',
+    image: './images/nextairbnb.png',
+  },
+  
  
   
 ]
