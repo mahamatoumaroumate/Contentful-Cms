@@ -83,7 +83,7 @@ export const data = [
   
   {
     title: 'airbnb',
-    url: 'https://airbnb-next-js-two.vercel.app/',
+    url: 'https://airbnb-next-94vcatfc9-mahamat-oumars-projects.vercel.app/',
     image: './images/nextairbnb.png',
   },
   
