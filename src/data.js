@@ -46,7 +46,7 @@ export const data = [
   },
   {
     title: 'job Tracker',
-    url: 'https://gleaming-florentine-f607dc.netlify.app/jobs',
+    url: 'https://gleaming-florentine-f607dc.netlify.app/',
     image: './images/job tr.png',
   },
   {
