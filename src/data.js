@@ -45,14 +45,14 @@ export const data = [
     image: './images/comfy.png',
   },
   {
-    title: 'jobster',
-    url: 'https://job-app-project.netlify.app/',
-    image: './images/jobster.png',
+    title: 'job Tracker',
+    url: 'https://gleaming-florentine-f607dc.netlify.app/jobs',
+    image: './images/job tr.png',
   },
   {
     title: 'tours',
     url: 'https://tours-explore-site.netlify.app/',
-    image: './images/tours.png',
+    image: './images/job Tracker.png',
   },
   {
     title: 'githubuser',
@@ -64,27 +64,6 @@ export const data = [
     title: 'comfySloth',
     url: 'https://comfysloth-comfy.netlify.app/',
     image: './images/comfysloth.png',
-  },
-  {
-    title: 'x-clone',
-    url: 'https://x-next-lemon.vercel.app/',
-    image: './images/x-clone.png',
-  },
-  {
-    title: 'jobify',
-    url: 'https://jobify-v8op2d27t-mahamat-oumars-projects.vercel.app/',
-    image: './images/jobify.png',
-  },
-  {
-    title: 'saas',
-    url: 'https://saas-ten-dusky.vercel.app/',
-    image: './images/saas.png',
-  },
-  
-  {
-    title: 'airbnb',
-    url: 'https://airbnb-next-js-three.vercel.app/',
-    image: './images/nextairbnb.png',
   },
   
  
